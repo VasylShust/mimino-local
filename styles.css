@@ -1,0 +1,58 @@
+.top{
+    position: absolute;
+    width: 100%;
+}
+.header-container{
+    display: flex;
+    background-color: aqua;
+}
+.nav{
+    display: flex;
+}
+.header-contacts{
+    display: flex;
+    background-color: coral;
+}
+.contacts-list{
+    display: flex;
+    gap: 20px;
+}
+.contacts-item{
+margin-top: 30px;
+}
+
+.logo{
+    font-size: 40px;
+    line-height: 1.075;
+    letter-spacing: 0.3em;
+    color: tomato;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 50px;
+}
+.list{
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    
+}
+
+.decoration-list{
+    text-decoration: none;
+}
+.text-nav{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.25;
+    letter-spacing: 0.02em;
+    color: #F3C653;
+}
+
+.is-hidden{
+    display: none;
+}
+.soc{
+    background-color: darksalmon;
+}
